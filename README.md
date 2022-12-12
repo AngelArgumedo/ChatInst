@@ -1,3 +1,14 @@
+# Pasos para iniciar la aplicación
+
+## Instale las dependencias públicas
+## Instalar las dependencias del servidor
+## En el directorio del servidor hay un archivo .env. Cambie el valor de mongodb dentro del archivo. Establezca el valor como su URL de conexión mongodb.
+## Ahora inicie el servidor por Yarn
+## Ahora comience la reacción por Yarn
+## Y la aplicación de chat ya se estaría ejecutando correctamente.
+
+##----------------------------------------------------------------------------
+
 # Steps to Start the App
 
 ## Install the Public Dependencies
