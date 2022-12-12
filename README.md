@@ -7,7 +7,7 @@
 ## Ahora comience la reacción por Yarn
 ## Y la aplicación de chat ya se estaría ejecutando correctamente.
 
-##----------------------------------------------------------------------------
+----------------------------------------------------------------------------
 
 # Steps to Start the App
 
